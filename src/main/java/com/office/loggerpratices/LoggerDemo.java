@@ -14,10 +14,7 @@ public class LoggerDemo {
 	static Logger logger = Logger.getLogger(LoggerDemo.class);
 	public static void main(String[] args) throws IOException {
 		
-	//	Layout layout = new SimpleLayout();
-		//Layout layout = new HTMLLayout();
 		Layout layout = new PatternLayout("%d %c %M %m %n");
-		//Appender appender = new ConsoleAppender(layout);
 		try {
 		Appender appender = new FileAppender(layout,"log1j.log");
 		logger.addAppender(appender);
