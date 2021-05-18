@@ -1,0 +1,11 @@
+2021-05-18 22:52:39,971 com.office.loggerpratices.LoggerDemo main debug message 
+2021-05-18 22:52:39,978 com.office.loggerpratices.LoggerDemo main info message 
+2021-05-18 22:52:39,978 com.office.loggerpratices.LoggerDemo main info message 
+2021-05-18 22:52:39,978 com.office.loggerpratices.LoggerDemo main erro message 
+2021-05-18 22:52:39,978 com.office.loggerpratices.LoggerDemo main fatal message 
+2021-05-18 22:52:39,978 com.office.loggerpratices.LoggerDemo demo1 debug message 
+2021-05-18 22:52:39,979 com.office.loggerpratices.LoggerDemo demo1 info message 
+2021-05-18 22:52:39,984 com.office.loggerpratices.LoggerDemo demo2 debug message 
+2021-05-18 22:52:39,984 com.office.loggerpratices.LoggerDemo demo2 info message 
+2021-05-18 22:52:39,984 com.office.loggerpratices.LoggerDemo demo3 debug message 
+2021-05-18 22:52:39,985 com.office.loggerpratices.LoggerDemo demo3 info message 
